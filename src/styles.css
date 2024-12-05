@@ -91,6 +91,7 @@ nav {
 }
 
 .content {
+    margin: 0 auto;
     padding: 0 0 3rem 0;
     width: 90%;
     justify-self: center;
